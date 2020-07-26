@@ -1,0 +1,8 @@
+# Compiled Object files
+*.slo
+*.lo
+*.out
+*.o
+
+# Others
+*.txt
